@@ -5,7 +5,13 @@
     }
 }
 
-@media(max-width:480px){
+@media(max-width: 600px){
+    .header-he {
+        font-size: 50px;
+    }
+}
+
+@media (max-width:480px){
     .navigation{
         display: none;
     }
@@ -13,3 +19,4 @@
         display: block;
     }
 }
+

@@ -40,7 +40,7 @@
     margin-right: 0;
 }
 
-.header-title{
+.header-he{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -54,4 +54,18 @@
     color: white;
     font-size: 30px;
     display: none;
+}
+
+/* section 3 */
+
+.container{
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.small-box{
+    width: 370px;
+    height: 374px;
+    background-color: yellow;
 }
