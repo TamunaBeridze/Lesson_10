@@ -55,6 +55,63 @@
     font-size: 30px;
     display: none;
 }
+/* section2 */
+
+.container1{
+    display: flex;
+    height: 600px;
+    width: 1280px;
+}
+
+.text-box{
+    width: 620px;
+    height: 600px;
+    margin-top: 90px;
+    margin-left: 82px;
+    margin-bottom: 42px;
+}
+
+.icon1{
+    width: 307px;
+    height: 72px;
+    background-color: #325DFF;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 58px;
+}
+
+.icon1 h3{
+    font-family: 'Lato', sans-serif;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.section2-header{
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+    text-align: left;
+    width: 468px;
+    height: 186px;
+}
+
+.section2-text{
+    font-family: 'Lato', sans-serif;
+    font-size: 16x;
+    width: 457px;
+    text-align: left;
+}
+
+.img{
+    width: 620px;
+    height: 600px;
+}
+
+.img img{
+    width: 100%;
+}
 
 /* section 3 */
 
